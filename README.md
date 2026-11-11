@@ -1,7 +1,7 @@
 
 # Hi, I'm Beril! 👋
 
-### Computer Engineer | Software Developer | QA Automation Engineer
+### Software Engineer | QA Automation Engineer
 
 I'm a Computer Engineer interested in building reliable software, test automation, and AI-powered applications.
 
