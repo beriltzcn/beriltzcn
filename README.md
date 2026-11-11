@@ -1,9 +1,9 @@
 
 # Hi, I'm Beril! 👋
 
-### Software Engineer | QA Automation Engineer
+### Software Engineer | QA Engineer
 
-I'm a Computer Engineer interested in building reliable software, test automation, and AI-powered applications.
+I'm a Software Engineer interested in building reliable software, test automation, and AI-powered applications.
 
 I enjoy learning new technologies, solving real-world problems, and developing projects that combine software engineering and automation.
 
@@ -44,6 +44,6 @@ I enjoy learning new technologies, solving real-world problems, and developing p
 
 - 🌐 Blog & Portfolio: [beril.dev](https://beril.dev)
 - 💻 GitHub: [@beriltzcn](https://github.com/beriltzcn)
-- 💼 LinkedIn: [My LinkedIn Profile](LINKEDIN_URL)
+- 💼 LinkedIn: [My LinkedIn Profile]([LINKEDIN_URL](https://www.linkedin.com/in/beril-tezcan/))
 
 ⭐ Always learning, building, and improving.
