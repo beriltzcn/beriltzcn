@@ -5,7 +5,7 @@
 
 I'm a Software Engineer interested in building reliable software, test automation, and AI-powered applications.
 
-I enjoy learning new technologies, solving real-world problems, and developing projects that combine software engineering and automation.
+I'm passionate about software development and quality assurance. I enjoy developing reliable applications, testing software, and continuously learning new technologies to improve my technical skills.
 
 ---
 
