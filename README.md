@@ -44,6 +44,6 @@ I enjoy learning new technologies, solving real-world problems, and developing p
 
 - 🌐 Blog & Portfolio: [beril.dev](https://beril.dev)
 - 💻 GitHub: [@beriltzcn](https://github.com/beriltzcn)
-- 💼 LinkedIn: [My LinkedIn Profile]([LINKEDIN_URL](https://www.linkedin.com/in/beril-tezcan/))
+- 💼 LinkedIn: [Beril Tezcan](https://www.linkedin.com/in/beril-tezcan/)
 
 ⭐ Always learning, building, and improving.
