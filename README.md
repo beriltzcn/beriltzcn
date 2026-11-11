@@ -33,12 +33,6 @@ I enjoy learning new technologies, solving real-world problems, and developing p
 **Tools & Technologies**
 - Git, GitHub Actions, Docker, Postman
 
-### 📌 Featured Projects
-
-- **AI Test Case Generator** – An AI-powered application that generates test cases.
-- **Strava Heatmap** – A project using ASP.NET Core, React, TypeScript, SQLite and Leaflet.
-- **Personal Website** – A personal website built with ASP.NET Core MVC.
-
 ### 🌱 Currently learning
 
 - Advanced .NET development
@@ -48,9 +42,8 @@ I enjoy learning new technologies, solving real-world problems, and developing p
 
 ### 📫 Connect with me
 
-- GitHub: [@beriltzcn](https://github.com/beriltzcn)
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/beril-tezcan/)
-
----
+- 🌐 Blog & Portfolio: [beril.dev](https://beril.dev)
+- 💻 GitHub: [@beriltzcn](https://github.com/beriltzcn)
+- 💼 LinkedIn: [My LinkedIn Profile](LINKEDIN_URL)
 
 ⭐ Always learning, building, and improving.
