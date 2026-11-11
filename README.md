@@ -19,7 +19,7 @@ I enjoy learning new technologies, solving real-world problems, and developing p
 ### 🛠️ Tech Stack
 
 **Languages**
-- C#, Python, JavaScript, TypeScript, SQL
+- C#, Python, PHP, JavaScript, SQL
 
 **Backend**
 - .NET, ASP.NET Core, FastAPI, REST APIs
@@ -49,7 +49,7 @@ I enjoy learning new technologies, solving real-world problems, and developing p
 ### 📫 Connect with me
 
 - GitHub: [@beriltzcn](https://github.com/beriltzcn)
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/beril-tezcan/)
 
 ---
 
